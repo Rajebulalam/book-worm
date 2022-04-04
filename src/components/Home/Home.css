@@ -1,0 +1,90 @@
+/* Start Banner Part Styling */
+.home-container {
+    padding: 50px 140px;
+}
+
+.banner-part {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.child {
+    width: 100%;
+}
+
+.home-container .child h2 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.highlight-color {
+    color: green;
+}
+
+.home-container .child p {
+    padding: 20px 0;
+    font-size: 18px;
+    color: #333;
+}
+
+.live-btn {
+    border: none;
+    padding: 15px 20px;
+    font-weight: bold;
+    font-size: 18px;
+    color: green;
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+.live-btn:hover {
+    background-color: green;
+    color: #fff;
+}
+
+/* End Banner Part Styling */
+
+
+/* Start Review Part Styling */
+.review-container h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.see-all-review {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.review-container a {
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: lightblue;
+    color: green;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+.review-container a:hover {
+    background-color: green;
+    color: #fff;
+}
+
+.reviews-item {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    padding: 30px;
+}
+
+/* End Review Part Styling */
