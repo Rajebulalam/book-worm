@@ -1,0 +1,31 @@
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 140px;
+    box-shadow: 5px 5px 20px gray;
+    height: 80px;
+    box-sizing: border-box;
+}
+
+.logo-part a {
+    font-size: 2rem;
+    text-decoration: none;
+    font-weight: bold;
+    color: #000;
+}
+
+.menu-bar nav a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 15px;
+    color: #000;
+    margin: 0 5px;
+    border-bottom: 5px solid lightgray;
+}
+
+.menu-bar nav a:hover {
+    color: green;
+    border-bottom: 5px solid green;
+}
