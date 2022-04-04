@@ -1,0 +1,16 @@
+.blog-container {
+    padding: 50px 140px;
+}
+
+.blog-container div {
+    padding: 10px 20px;
+    border: 2px solid gray;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.blog-container div p {
+    font-size: 18px;
+    font-weight: 600;
+    color: #3a3a3a;
+}
