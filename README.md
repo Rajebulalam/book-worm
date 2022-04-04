@@ -1,6 +1,6 @@
 # Book Shop for Book Worm
 
-This project is [Book Worm](https://github.com/facebook/create-react-app).
+This project is [Book Worm](https://books-worm.netlify.app/).
 
 ## Available Scripts
 
