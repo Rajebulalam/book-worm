@@ -1,0 +1,11 @@
+.dashboard-container {
+    padding: 40px 140px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 40px;
+}
+
+.text-align {
+    text-align: center;
+    color: green;
+}
