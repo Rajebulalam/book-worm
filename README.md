@@ -4,6 +4,11 @@ This project is [Book Worm](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
+* This Project Created With React and React Router.
+* This project has a home page, review page, blog page, dashboard page, and about page.
+* To create dashboard i used rechart.
+* This project created with vanilla css.
+
 In the project directory, you can run:
 
 ### `npm start`
