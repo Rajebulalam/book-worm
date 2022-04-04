@@ -1,0 +1,18 @@
+.review-item {
+    box-shadow: 5px 5px 10px gray;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.review-item img {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    border: 5px solid gray;
+}
+
+.review-item h2 {
+    color: green;
+    font-size: 1.5rem;
+}
