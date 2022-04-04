@@ -1,6 +1,6 @@
 # Book Shop for Book Worm
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is [Book Worm](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
